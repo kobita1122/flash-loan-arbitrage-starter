@@ -1,0 +1,10 @@
+{
+  "polygon_mainnet": {
+    "pool_addresses_provider": "0xa97684ead0e4511901a5903c7c64793936c38bcd",
+    "weth": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+  },
+  "sepolia_testnet": {
+    "pool_addresses_provider": "0x012b64511C0D86027200b1BbD72239DfFA106ee8",
+    "weth": "0x94a10348513fB138962d7c42074B53637c4A19A6"
+  }
+}
